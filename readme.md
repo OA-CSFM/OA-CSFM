@@ -11,7 +11,7 @@ This repository provides the complete source code, training scripts, and configu
 
 The DFEW dataset analyzed during the current study is available at https://dfew-dataset.github.io/.
 
-The FERV39k dataset analyzed during the current study is available at https://wangy3dkx.github.io/
+The FERV39k dataset analyzed during the current study is available at https://github.com/wangyanckxx/FERV39k
 
 
 2. Environment Setup
